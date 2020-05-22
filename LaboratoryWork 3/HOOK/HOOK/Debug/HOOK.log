@@ -1,0 +1,8 @@
+﻿  main.c
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\3\hook\hook\main.c(23): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\3\hook\hook\main.c(23): warning C4024: 'SetWindowsHookExW': different types for formal and actual parameter 4
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\3\hook\hook\main.c(49): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\3\hook\hook\main.c(62): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\3\hook\hook\main.c(62): warning C4024: 'MapVirtualKeyW': different types for formal and actual parameter 2
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\3\hook\hook\main.c(65): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  HOOK.vcxproj -> D:\Точка входа\Университет\3 курс 2 семестр\Unix-операційні системи\Лабы\3\HOOK\Debug\HOOK.exe

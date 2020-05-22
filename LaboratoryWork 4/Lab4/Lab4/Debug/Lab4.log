@@ -1,0 +1,18 @@
+﻿  Lab4.cpp
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\operatingsystems\laboratorywork 4\lab4\lab4\lab4.cpp(139): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\operatingsystems\laboratorywork 4\lab4\lab4\lab4.cpp(199): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\operatingsystems\laboratorywork 4\lab4\lab4\lab4.cpp(212): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+d:\точка входа\университет\3 курс 2 семестр\unix-операційні системи\лабы\operatingsystems\laboratorywork 4\lab4\lab4\lab4.cpp(224): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Lab4.vcxproj -> D:\Точка входа\Университет\3 курс 2 семестр\Unix-операційні системи\Лабы\OperatingSystems\LaboratoryWork 4\Lab4\Debug\Lab4.exe
